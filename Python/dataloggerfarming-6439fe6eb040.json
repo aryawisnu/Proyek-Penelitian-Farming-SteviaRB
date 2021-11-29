@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dataloggerfarming",
+  "private_key_id": "6439fe6eb0402012e354f2642e8316d29f5afab1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCsluR5LynN1T2B\n9yNGH8HLCuuQm9w+RxV3N99SNzRWsW8gw4wsyszmslO5gjIxhLOQloliJs6frttk\n4Wh20QQcGXbpcLne/yCVPsy/7t86p59xl+3kKLmuBcmYsgXtVozk2QdahdlltTIl\n0saagT1c3DitKAvHqaVix3Qsbk+wOoGIp8CaLqMvuzcxbQj2P8oedAersRYaILrw\nd/55bBgsnRPBRBEahzC9UmxXYhda5ZsJ495dOV4Ho2kH2enH99IfWNomj212W/ZR\nDXxpMawtWR0OCVttxeSxPopZyfxAHkgQ8xzBu5T+pMJcSK2Zv8z0DDeQmL+3ENAs\nOB1LU0DFAgMBAAECggEAHal7T+aOsT0OaqlOay1nEZ3pWXuoER4Hbutv2sH5IVMy\nbbed/k7Gg3mvkQjy1nbfo6BzsSZJScF0HHTvDsiig6/Os5U3pL9FWtElwHDt9bc8\nXHoHnThwnRuKh89E3IMNCQHR1Tl+4Q+QtFZy4rgGk1CX/w6MY77g2Ua9TSuST4+e\nIlQ+ID0T7kC3Vulcw+aIQai0hvIuV+3Dqw5+vogLQckqad6fYbZ+Kw/3Osb1CfFL\n5qRDdct+P5Fv/9BsP7AbU0eRfBb58CbXE5E9fnqoLz8mWXIf8tWw22aM45zYK36W\nPbKErnyoLgpTgbU3AH68iE8TvdNpJK504Lum7OCzMQKBgQDihRLTGrT2z5pM5ktD\nXDGnCgaPjJnnr4ebh/hdVfx/MltZ59Gs0KbxayLHec/u0AM8rk7B5duUpWF1ebpE\njd/0+CW/Ktz94hL8AkQ1WgmtoMdKurTSWTaAUxgF7/+cL2cqMF9eTRD6ZjzJCmL5\nkhu0xuz0rwUrvu2pvwy5udXbuQKBgQDDDQc04GU5tCym+xQNJPmfBi2HxDTv+rRQ\nm43OGCf5ZRHva04FUntBxkGjXwy5jR2Iqvf3LeAh4ugmgZojV/kLRXni+iQZb6bx\nUiGntMvoL8kA8GUEEF/85St/4BAtwokZEzuJy09v3JdCT56SADb8mC5iwoDie2b4\nTnOX1NHLbQKBgGLkvic0DbWDRVY1ZL5vza2jjuG0/KxN0eJxJll5ZNcTYRaLQtsz\n7O6RW4nDAKi+X+tqHjBA7fCjkzz6e/vaBOCqRbCEQh8FSEyFoMm6GWeYPem+QZtk\nH4s+u8o70ViayWt92uUMuFDZucf7pOJYi4gNIP5iOtuya4gkRKYBIADhAoGAW7nw\nvakZcX2N0ikZUOUmjuZ02vgmfQTFb3L3yQgLJHmnaZRo6I/VbyUxEQdOEKSQUwkz\n+4YTdVwkGJeySRTCBc7ydw9zkpKzS6F4OkoH6nUubcafer3IpkGPp19TvHFTz/r/\ncNmvzcdLSt/ujnKTaU6X4dHekqO91N/v9GMdFjECgYAwqN9IbwFgC7wsVcBoO7RB\nHMbt81OeiQPv+lD56IFTsNlPX0JdHWPwbL5iYXmksXCHGKGK9yG4lgI+k6Vap2p0\n/m/303dQb929oAdDIIFtp+nuKBzP3RcgJBgW88L3qrQBJ6PKwmRv5cpeQ+C9iK5N\n3SwWvWQ1EOcTyhWzxuxXiA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "raspifarming@dataloggerfarming.iam.gserviceaccount.com",
+  "client_id": "116517194483394455831",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/raspifarming%40dataloggerfarming.iam.gserviceaccount.com"
+}
