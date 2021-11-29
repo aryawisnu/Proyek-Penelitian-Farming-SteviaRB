@@ -56,6 +56,6 @@ digunakan untuk memprogram GUI yang dibuat dengan menggunakan QT Creator
 5. Python  
 digunakan untuk memprogram proses pergerakan kamera, pengambilan gambar, upload gambar ke Google Drive, serta membaca dan upload data monitoring sensor ke Google Spreadsheet  
 
-Berikut merupakan foto dari alat yang sudah dipasang :  
+
   
 
