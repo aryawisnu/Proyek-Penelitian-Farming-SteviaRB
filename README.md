@@ -47,3 +47,15 @@ Berikut merupakan desain PCB touchscreen LCD :
 
 => Layer Bawah  
 ![image](https://user-images.githubusercontent.com/87922087/143826396-a713b89e-3679-4f55-9689-a3250a2a2fef.png)
+
+Bahasa permrograman yang digunakan pada proyek ini terdiri dari 3 bahasa, yaitu :
+1. C  
+digunakan untuk memprogram arduino, membaca data dari 3 buah sensor DHT11 lalu mengirimkannya ke Raspberry Pi melalui USB Serial  
+3. C++  
+digunakan untuk memprogram GUI yang dibuat dengan menggunakan QT Creator  
+5. Python  
+digunakan untuk memprogram proses pergerakan kamera, pengambilan gambar, upload gambar ke Google Drive, serta membaca dan upload data monitoring sensor ke Google Spreadsheet  
+
+Berikut merupakan foto dari alat yang sudah dipasang :  
+  
+
