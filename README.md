@@ -54,7 +54,7 @@ digunakan untuk memprogram arduino, membaca data dari 3 buah sensor DHT11 lalu m
 3. C++  
 digunakan untuk memprogram GUI yang dibuat dengan menggunakan QT Creator  
 5. Python  
-digunakan untuk memprogram proses pergerakan kamera, pengambilan gambar, upload gambar ke Google Drive, serta membaca dan upload data monitoring sensor ke Google Spreadsheet  
+digunakan untuk memprogram proses pergerakan kamera, pengambilan gambar, upload gambar ke Google Drive, backup data gambar ke flashdisk, serta membaca dan upload data monitoring sensor ke Google Spreadsheet.  
 
 
   
